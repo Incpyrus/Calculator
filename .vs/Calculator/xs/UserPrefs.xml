@@ -1,13 +1,25 @@
 ﻿<Properties StartupConfiguration="{5FD255A9-6F64-4830-8012-026B88A814A6}|Default">
   <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Calculator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/Percentage.cs">
     <Files>
       <File FileName="Calculator/Calculator.cs" Line="28" Column="13" />
       <File FileName="Calculator/Add.cs" Line="11" Column="1" />
       <File FileName="Calculator/Subtract.cs" Line="12" Column="8" />
       <File FileName="Calculator/Multiply.cs" Line="11" Column="1" />
       <File FileName="Calculator/Divide.cs" Line="10" Column="1" />
+      <File FileName="Calculator/Percentage.cs" Line="6" Column="33" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculator" expanded="True">
+            <Node name="Calculator" expanded="True">
+              <Node name="Percentage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
